@@ -14,3 +14,7 @@ Each PoC is self-contained. Go to the respective directory and run:
 
 ```bash
 docker-compose up --build
+```
+
+
+! For educational use only. Do not deploy these systems in production.
